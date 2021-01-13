@@ -1,0 +1,10 @@
+{
+  "name": "memoize",
+  "version": "0.0.1",
+  "description": "memoize function test",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
